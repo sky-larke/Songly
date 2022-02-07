@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 21077e37a91294cbb95687597422b789
+guid: 20a07f87ed621b645aa6bbd6bcc87216
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -20,6 +20,15 @@ TextureImporter:
   - first:
       213: -2878678682332624372
     second: Songly_Walk_Back-Sheet_5
+  - first:
+      213: -6864355242890333856
+    second: Songly_Walk_Back-Sheet_6
+  - first:
+      213: -4346168341065365341
+    second: Songly_Walk_Back-Sheet_7
+  - first:
+      213: -284401104976154825
+    second: Songly_Walk_Back-Sheet_8
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -105,6 +114,18 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -112,10 +133,10 @@ TextureImporter:
       name: Songly_Walk_Back-Sheet_0
       rect:
         serializedVersion: 2
-        x: 5
+        x: 3
         y: 1
-        width: 23
-        height: 26
+        width: 27
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -133,10 +154,10 @@ TextureImporter:
       name: Songly_Walk_Back-Sheet_1
       rect:
         serializedVersion: 2
-        x: 37
+        x: 35
         y: 1
-        width: 23
-        height: 26
+        width: 27
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,10 +175,10 @@ TextureImporter:
       name: Songly_Walk_Back-Sheet_2
       rect:
         serializedVersion: 2
-        x: 69
+        x: 67
         y: 1
-        width: 23
-        height: 26
+        width: 27
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -175,10 +196,10 @@ TextureImporter:
       name: Songly_Walk_Back-Sheet_3
       rect:
         serializedVersion: 2
-        x: 101
-        y: 0
-        width: 23
-        height: 26
+        x: 99
+        y: 1
+        width: 27
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -196,10 +217,10 @@ TextureImporter:
       name: Songly_Walk_Back-Sheet_4
       rect:
         serializedVersion: 2
-        x: 133
+        x: 131
         y: 1
-        width: 23
-        height: 26
+        width: 27
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -217,10 +238,10 @@ TextureImporter:
       name: Songly_Walk_Back-Sheet_5
       rect:
         serializedVersion: 2
-        x: 165
-        y: 0
-        width: 23
-        height: 26
+        x: 163
+        y: 1
+        width: 27
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -230,6 +251,69 @@ TextureImporter:
       bones: []
       spriteID: c0a03158df0ec08d0800000000000000
       internalID: -2878678682332624372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Songly_Walk_Back-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0617e678649ecb0a0800000000000000
+      internalID: -6864355242890333856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Songly_Walk_Back-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a800c8bbee4fa3c0800000000000000
+      internalID: -4346168341065365341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Songly_Walk_Back-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fea2ca3ba9d0cf0800000000000000
+      internalID: -284401104976154825
       vertices: []
       indices: 
       edges: []

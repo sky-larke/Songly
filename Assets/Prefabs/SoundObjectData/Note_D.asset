@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54d91f0f070844147b246107b3cd105c, type: 3}
+  m_Name: Note_D
+  m_EditorClassIdentifier: 
+  name: D
+  sound: {fileID: 8300000, guid: 1c5e6ae85bd672b498af73aa35b0358e, type: 3}
+  sprite: {fileID: -4129207664508980214, guid: 91926ab186f78954298d4e775316e3de, type: 3}
+  type: 0
+  elements: []
