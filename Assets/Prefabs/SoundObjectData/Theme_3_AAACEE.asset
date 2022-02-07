@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54d91f0f070844147b246107b3cd105c, type: 3}
+  m_Name: Theme_3_AAACEE
+  m_EditorClassIdentifier: 
+  name: AAACEE
+  sound: {fileID: 8300000, guid: 1a55a4e22247a444bb8df25498c4e436, type: 3}
+  sprite: {fileID: 21300000, guid: 4b04956d0e6c97547b14e5099e475cde, type: 3}
+  type: 1
+  elements:
+  - {fileID: 11400000, guid: 3b7da7c3c22093c4385287264d90fa2f, type: 2}
+  - {fileID: 11400000, guid: 654d0a2e67f0e254c9daffb9a67b5d09, type: 2}
+  - {fileID: 11400000, guid: 01aeef7f50dab15499d3a9210f916aa2, type: 2}
+  - {fileID: 11400000, guid: 654d0a2e67f0e254c9daffb9a67b5d09, type: 2}
+  - {fileID: 11400000, guid: 0c2d8b2e8e3ff8544b3add574f9b534a, type: 2}
