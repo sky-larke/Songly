@@ -25,6 +25,7 @@ public class GameManager : MonoBehaviour
     public int currentGoalIdx;
 
     private AudioSource audioSource;
+    public AudioClip errorSound;        //windows error sound as a placeholder
 
     private void Start() {
         audioSource = GetComponent<AudioSource>();
@@ -63,6 +64,8 @@ public class GameManager : MonoBehaviour
 
             } else {
                 Debug.Log("Not WIN");
+                audioSource.clip = errorSound;
+                audioSource.Play();                 //TODO: should play backpack notes in order
                 Backpack.Instance.Clear();
                 Invoke("GenerateLevel", 2f); //restart current level after 2 sec dely
             }

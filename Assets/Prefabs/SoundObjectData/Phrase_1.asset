@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: PhraseOneTwo
   sound: {fileID: 8300000, guid: 73b3c1337d926f34b97850ed561429a9, type: 3}
-  sprite: {fileID: -563050981544132743, guid: 3628386def5b36e4eb5c56a382a232aa, type: 3}
+  sprite: {fileID: 21300000, guid: 5ce9ab02c0ecb954ca78428625ac2003, type: 3}
   type: 2
   elements:
   - {fileID: 11400000, guid: cc63ad9c915b2a846a8bc901f9b2a37a, type: 2}
