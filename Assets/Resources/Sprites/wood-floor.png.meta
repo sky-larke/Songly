@@ -1,0 +1,5412 @@
+fileFormatVersion: 2
+guid: 7bf5087eda3aa8f41aebf598d7421331
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1277785314529356208
+    second: wood-floor_0
+  - first:
+      213: -280681227114584356
+    second: wood-floor_1
+  - first:
+      213: 707386108003726633
+    second: wood-floor_2
+  - first:
+      213: -5425245579677950241
+    second: wood-floor_3
+  - first:
+      213: 2553554752406789623
+    second: wood-floor_4
+  - first:
+      213: 5325515567591084871
+    second: wood-floor_5
+  - first:
+      213: -1650778772247972944
+    second: wood-floor_6
+  - first:
+      213: 3797231477399956570
+    second: wood-floor_7
+  - first:
+      213: 4437196167819727094
+    second: wood-floor_8
+  - first:
+      213: -1628185982385742726
+    second: wood-floor_9
+  - first:
+      213: 3662513527016700360
+    second: wood-floor_10
+  - first:
+      213: -7763313717513840153
+    second: wood-floor_11
+  - first:
+      213: -5717756120348574860
+    second: wood-floor_12
+  - first:
+      213: -948524084574919237
+    second: wood-floor_13
+  - first:
+      213: -4641444666918498240
+    second: wood-floor_14
+  - first:
+      213: 447739014608879323
+    second: wood-floor_15
+  - first:
+      213: 6318897334145549259
+    second: wood-floor_16
+  - first:
+      213: -6330554289742648257
+    second: wood-floor_17
+  - first:
+      213: -9219259980418994507
+    second: wood-floor_18
+  - first:
+      213: -7908796546027747660
+    second: wood-floor_19
+  - first:
+      213: 2140055047713222384
+    second: wood-floor_20
+  - first:
+      213: -407707809896534558
+    second: wood-floor_21
+  - first:
+      213: -8577572045345284767
+    second: wood-floor_22
+  - first:
+      213: 6961919712301970478
+    second: wood-floor_23
+  - first:
+      213: 5407818374448318958
+    second: wood-floor_24
+  - first:
+      213: 5888536094179880473
+    second: wood-floor_25
+  - first:
+      213: 6761541058621397982
+    second: wood-floor_26
+  - first:
+      213: 3040650816536483015
+    second: wood-floor_27
+  - first:
+      213: -7147225338629338107
+    second: wood-floor_28
+  - first:
+      213: -2735245902989392303
+    second: wood-floor_29
+  - first:
+      213: -9095082958956059760
+    second: wood-floor_30
+  - first:
+      213: 3518794866053054871
+    second: wood-floor_31
+  - first:
+      213: 4484273462359014111
+    second: wood-floor_32
+  - first:
+      213: -8650405824945429153
+    second: wood-floor_33
+  - first:
+      213: -577502396084973310
+    second: wood-floor_34
+  - first:
+      213: 8742002791125718788
+    second: wood-floor_35
+  - first:
+      213: 8168833437528688077
+    second: wood-floor_36
+  - first:
+      213: 5500499185500792909
+    second: wood-floor_37
+  - first:
+      213: -3280275634485895083
+    second: wood-floor_38
+  - first:
+      213: -4370012526119419764
+    second: wood-floor_39
+  - first:
+      213: -5723233389141656113
+    second: wood-floor_40
+  - first:
+      213: 2855173842701686142
+    second: wood-floor_41
+  - first:
+      213: 7005691684592993996
+    second: wood-floor_42
+  - first:
+      213: 3025231790298613963
+    second: wood-floor_43
+  - first:
+      213: 6092240143654350217
+    second: wood-floor_44
+  - first:
+      213: 68253948952826436
+    second: wood-floor_45
+  - first:
+      213: -8064851336824258441
+    second: wood-floor_46
+  - first:
+      213: -7406240814820009564
+    second: wood-floor_47
+  - first:
+      213: 7554321159343576333
+    second: wood-floor_48
+  - first:
+      213: 7590706201396992732
+    second: wood-floor_49
+  - first:
+      213: -4008714688160435821
+    second: wood-floor_50
+  - first:
+      213: -415393846716001051
+    second: wood-floor_51
+  - first:
+      213: -5553932740223609863
+    second: wood-floor_52
+  - first:
+      213: 124502478959299065
+    second: wood-floor_53
+  - first:
+      213: 9175901526871144267
+    second: wood-floor_54
+  - first:
+      213: -4091520636230839045
+    second: wood-floor_55
+  - first:
+      213: 8728260436640252322
+    second: wood-floor_56
+  - first:
+      213: 3473272337121330698
+    second: wood-floor_57
+  - first:
+      213: 6264996442119626422
+    second: wood-floor_58
+  - first:
+      213: 5910198544079131989
+    second: wood-floor_59
+  - first:
+      213: -8530353800969564740
+    second: wood-floor_60
+  - first:
+      213: -2411647562160551244
+    second: wood-floor_61
+  - first:
+      213: 6454135759179296681
+    second: wood-floor_62
+  - first:
+      213: 7191959895221592839
+    second: wood-floor_63
+  - first:
+      213: -5024152085940294635
+    second: wood-floor_64
+  - first:
+      213: -6120779068397030405
+    second: wood-floor_65
+  - first:
+      213: -3435101370841839467
+    second: wood-floor_66
+  - first:
+      213: -3032639115722607891
+    second: wood-floor_67
+  - first:
+      213: -6997206515351880651
+    second: wood-floor_68
+  - first:
+      213: 2480441768206180075
+    second: wood-floor_69
+  - first:
+      213: -8924875345224984308
+    second: wood-floor_70
+  - first:
+      213: -5198787712921027758
+    second: wood-floor_71
+  - first:
+      213: -8988785047372627230
+    second: wood-floor_72
+  - first:
+      213: -5968808352784773329
+    second: wood-floor_73
+  - first:
+      213: 6042517559107467136
+    second: wood-floor_74
+  - first:
+      213: 7213199373445618402
+    second: wood-floor_75
+  - first:
+      213: 6715250510076846776
+    second: wood-floor_76
+  - first:
+      213: 6392115517688108686
+    second: wood-floor_77
+  - first:
+      213: -1781333238814498267
+    second: wood-floor_78
+  - first:
+      213: 4821616517736077864
+    second: wood-floor_79
+  - first:
+      213: 4831270310207404671
+    second: wood-floor_80
+  - first:
+      213: -1129394218287860088
+    second: wood-floor_81
+  - first:
+      213: -1440805887135469812
+    second: wood-floor_82
+  - first:
+      213: 3116370452050735203
+    second: wood-floor_83
+  - first:
+      213: 3099731719196560114
+    second: wood-floor_84
+  - first:
+      213: 259977039098381095
+    second: wood-floor_85
+  - first:
+      213: -2868423545120601494
+    second: wood-floor_86
+  - first:
+      213: -2946011581186424410
+    second: wood-floor_87
+  - first:
+      213: -5904914338544479219
+    second: wood-floor_88
+  - first:
+      213: 3127001347814088613
+    second: wood-floor_89
+  - first:
+      213: -7313555970795256027
+    second: wood-floor_90
+  - first:
+      213: -3798559573480792409
+    second: wood-floor_91
+  - first:
+      213: -7909908040270405770
+    second: wood-floor_92
+  - first:
+      213: -8169173722334080994
+    second: wood-floor_93
+  - first:
+      213: 4521811286169569661
+    second: wood-floor_94
+  - first:
+      213: -2462639353129145278
+    second: wood-floor_95
+  - first:
+      213: -1142633974436910942
+    second: wood-floor_96
+  - first:
+      213: 2356852291492568496
+    second: wood-floor_97
+  - first:
+      213: 3654662819622805545
+    second: wood-floor_98
+  - first:
+      213: 5747787508334692344
+    second: wood-floor_99
+  - first:
+      213: 5767918441865571860
+    second: wood-floor_100
+  - first:
+      213: 7971122690899734702
+    second: wood-floor_101
+  - first:
+      213: -1033933079032192853
+    second: wood-floor_102
+  - first:
+      213: -3656547928559601011
+    second: wood-floor_103
+  - first:
+      213: -6425150113326103487
+    second: wood-floor_104
+  - first:
+      213: 3257305493039872974
+    second: wood-floor_105
+  - first:
+      213: 1864234987255293604
+    second: wood-floor_106
+  - first:
+      213: -1047052897896130824
+    second: wood-floor_107
+  - first:
+      213: 4959941503068119938
+    second: wood-floor_108
+  - first:
+      213: -5030534893437665724
+    second: wood-floor_109
+  - first:
+      213: -8914513459306149594
+    second: wood-floor_110
+  - first:
+      213: 7345038550311024670
+    second: wood-floor_111
+  - first:
+      213: 6337927278335528791
+    second: wood-floor_112
+  - first:
+      213: -1709388367829235139
+    second: wood-floor_113
+  - first:
+      213: -4803102308441573614
+    second: wood-floor_114
+  - first:
+      213: 5391654717308146373
+    second: wood-floor_115
+  - first:
+      213: -411794514398978737
+    second: wood-floor_116
+  - first:
+      213: 6196094318216577681
+    second: wood-floor_117
+  - first:
+      213: 7437582162415951593
+    second: wood-floor_118
+  - first:
+      213: 1550933224201760227
+    second: wood-floor_119
+  - first:
+      213: 7070633025957752053
+    second: wood-floor_120
+  - first:
+      213: 5419856724763947896
+    second: wood-floor_121
+  - first:
+      213: -5988598513654268835
+    second: wood-floor_122
+  - first:
+      213: 7380831524332013919
+    second: wood-floor_123
+  - first:
+      213: 6724761813838816550
+    second: wood-floor_124
+  - first:
+      213: -7309244450161001368
+    second: wood-floor_125
+  - first:
+      213: 6946652119904658135
+    second: wood-floor_126
+  - first:
+      213: -207411143535677255
+    second: wood-floor_127
+  - first:
+      213: -5219739229613500930
+    second: wood-floor_128
+  - first:
+      213: 6359061632507226101
+    second: wood-floor_129
+  - first:
+      213: 799947793016032067
+    second: wood-floor_130
+  - first:
+      213: -5152902765073489076
+    second: wood-floor_131
+  - first:
+      213: 1712455677709032675
+    second: wood-floor_132
+  - first:
+      213: 8375218697414547021
+    second: wood-floor_133
+  - first:
+      213: 7180439292360740139
+    second: wood-floor_134
+  - first:
+      213: 7467690003199763665
+    second: wood-floor_135
+  - first:
+      213: -956077860127807787
+    second: wood-floor_136
+  - first:
+      213: -57889103564563085
+    second: wood-floor_137
+  - first:
+      213: -4896221609284633238
+    second: wood-floor_138
+  - first:
+      213: -2578043666892583834
+    second: wood-floor_139
+  - first:
+      213: 1853455746337273423
+    second: wood-floor_140
+  - first:
+      213: -7405657574191308876
+    second: wood-floor_141
+  - first:
+      213: 976936335457461742
+    second: wood-floor_142
+  - first:
+      213: 2841071863583259168
+    second: wood-floor_143
+  - first:
+      213: -6787902646438301483
+    second: wood-floor_144
+  - first:
+      213: -5179020851627721892
+    second: wood-floor_145
+  - first:
+      213: -6324817340926257930
+    second: wood-floor_146
+  - first:
+      213: 3868623948880652869
+    second: wood-floor_147
+  - first:
+      213: 8978911061962427600
+    second: wood-floor_148
+  - first:
+      213: -1104850826660962784
+    second: wood-floor_149
+  - first:
+      213: 1863290129460754698
+    second: wood-floor_150
+  - first:
+      213: -7110608044208496402
+    second: wood-floor_151
+  - first:
+      213: 6875537700861037367
+    second: wood-floor_152
+  - first:
+      213: 6476905077649155588
+    second: wood-floor_153
+  - first:
+      213: -6480704843055371125
+    second: wood-floor_154
+  - first:
+      213: 7288238368370454000
+    second: wood-floor_155
+  - first:
+      213: -3017498248279636998
+    second: wood-floor_156
+  - first:
+      213: 2679175902795591382
+    second: wood-floor_157
+  - first:
+      213: -5828446365751410709
+    second: wood-floor_158
+  - first:
+      213: -3243824071913973853
+    second: wood-floor_159
+  - first:
+      213: 4577604056468108756
+    second: wood-floor_160
+  - first:
+      213: -9181415030183954487
+    second: wood-floor_161
+  - first:
+      213: -6994394326624678795
+    second: wood-floor_162
+  - first:
+      213: 2828337820355685730
+    second: wood-floor_163
+  - first:
+      213: 3202339311133872882
+    second: wood-floor_164
+  - first:
+      213: -6704601659159324127
+    second: wood-floor_165
+  - first:
+      213: -2234967692076750945
+    second: wood-floor_166
+  - first:
+      213: -2450135704709254883
+    second: wood-floor_167
+  - first:
+      213: 2789745898159017578
+    second: wood-floor_168
+  - first:
+      213: 3597582269758248040
+    second: wood-floor_169
+  - first:
+      213: 8926712195314897513
+    second: wood-floor_170
+  - first:
+      213: -7713496706475769673
+    second: wood-floor_171
+  - first:
+      213: 5591107912555426228
+    second: wood-floor_172
+  - first:
+      213: -8518183812478854977
+    second: wood-floor_173
+  - first:
+      213: 2844564626831699201
+    second: wood-floor_174
+  - first:
+      213: -8300822963870664027
+    second: wood-floor_175
+  - first:
+      213: 3032841472990875397
+    second: wood-floor_176
+  - first:
+      213: -399709616189178213
+    second: wood-floor_177
+  - first:
+      213: -2687770906652800323
+    second: wood-floor_178
+  - first:
+      213: -5403670874036528016
+    second: wood-floor_179
+  - first:
+      213: 638094428760951642
+    second: wood-floor_180
+  - first:
+      213: 3606520445836278921
+    second: wood-floor_181
+  - first:
+      213: 5241671888335567517
+    second: wood-floor_182
+  - first:
+      213: -6111911314195502219
+    second: wood-floor_183
+  - first:
+      213: -6250908765275708415
+    second: wood-floor_184
+  - first:
+      213: 5147190231017013236
+    second: wood-floor_185
+  - first:
+      213: 1249542193306253282
+    second: wood-floor_186
+  - first:
+      213: 8837340889117912108
+    second: wood-floor_187
+  - first:
+      213: -3256063056828373340
+    second: wood-floor_188
+  - first:
+      213: 4760557303989340278
+    second: wood-floor_189
+  - first:
+      213: 4947507219055530939
+    second: wood-floor_190
+  - first:
+      213: 7695758697003540766
+    second: wood-floor_191
+  - first:
+      213: -4416062704633032054
+    second: wood-floor_192
+  - first:
+      213: 6470576217126440296
+    second: wood-floor_193
+  - first:
+      213: -4758282285002366476
+    second: wood-floor_194
+  - first:
+      213: 2250979562433620098
+    second: wood-floor_195
+  - first:
+      213: 209930681594869388
+    second: wood-floor_196
+  - first:
+      213: -1926400939083610389
+    second: wood-floor_197
+  - first:
+      213: -8162747972182783851
+    second: wood-floor_198
+  - first:
+      213: -3681765895108758116
+    second: wood-floor_199
+  - first:
+      213: -7201501850735730220
+    second: wood-floor_200
+  - first:
+      213: 1678124447563072554
+    second: wood-floor_201
+  - first:
+      213: 5985751300567957644
+    second: wood-floor_202
+  - first:
+      213: -4880352080992602401
+    second: wood-floor_203
+  - first:
+      213: -2213328985602054279
+    second: wood-floor_204
+  - first:
+      213: -5663696174094652431
+    second: wood-floor_205
+  - first:
+      213: 7225436840238705734
+    second: wood-floor_206
+  - first:
+      213: 8900957110634818978
+    second: wood-floor_207
+  - first:
+      213: -3263615274556368500
+    second: wood-floor_208
+  - first:
+      213: 337211740303234000
+    second: wood-floor_209
+  - first:
+      213: 4810365820092502628
+    second: wood-floor_210
+  - first:
+      213: 6306433955131171282
+    second: wood-floor_211
+  - first:
+      213: 2275532320859637249
+    second: wood-floor_212
+  - first:
+      213: -4217055490872543053
+    second: wood-floor_213
+  - first:
+      213: 7349956508195700520
+    second: wood-floor_214
+  - first:
+      213: 3215448441439938473
+    second: wood-floor_215
+  - first:
+      213: 149189249263375458
+    second: wood-floor_216
+  - first:
+      213: -8386148836087684684
+    second: wood-floor_217
+  - first:
+      213: -300605064652013223
+    second: wood-floor_218
+  - first:
+      213: -7498015223903880652
+    second: wood-floor_219
+  - first:
+      213: -8193933996099200520
+    second: wood-floor_220
+  - first:
+      213: 8261405143942343234
+    second: wood-floor_221
+  - first:
+      213: 3441563819968295662
+    second: wood-floor_222
+  - first:
+      213: 1669239114469660041
+    second: wood-floor_223
+  - first:
+      213: 6962433552917886425
+    second: wood-floor_224
+  - first:
+      213: 844714224051746233
+    second: wood-floor_225
+  - first:
+      213: 1872002209514321677
+    second: wood-floor_226
+  - first:
+      213: 1432005079229676617
+    second: wood-floor_227
+  - first:
+      213: 1065049817976747063
+    second: wood-floor_228
+  - first:
+      213: 4777933006784713656
+    second: wood-floor_229
+  - first:
+      213: 5432290864203050739
+    second: wood-floor_230
+  - first:
+      213: -9086467325804143898
+    second: wood-floor_231
+  - first:
+      213: -1448361972925158295
+    second: wood-floor_232
+  - first:
+      213: -867593135109275834
+    second: wood-floor_233
+  - first:
+      213: -4867596923278923910
+    second: wood-floor_234
+  - first:
+      213: -3414370701611605933
+    second: wood-floor_235
+  - first:
+      213: -1231966981387012548
+    second: wood-floor_236
+  - first:
+      213: -2111222793732997424
+    second: wood-floor_237
+  - first:
+      213: 8641988354728551736
+    second: wood-floor_238
+  - first:
+      213: -2359978865425816158
+    second: wood-floor_239
+  - first:
+      213: 8585020728081336763
+    second: wood-floor_240
+  - first:
+      213: 6092968421110805061
+    second: wood-floor_241
+  - first:
+      213: 7053549262272254659
+    second: wood-floor_242
+  - first:
+      213: -2729084541702624967
+    second: wood-floor_243
+  - first:
+      213: -8319986321488662079
+    second: wood-floor_244
+  - first:
+      213: -4468544926417118261
+    second: wood-floor_245
+  - first:
+      213: -7103201114749102463
+    second: wood-floor_246
+  - first:
+      213: -8716142119988359271
+    second: wood-floor_247
+  - first:
+      213: -6351257979674021953
+    second: wood-floor_248
+  - first:
+      213: -2972182543628818051
+    second: wood-floor_249
+  - first:
+      213: -5654282251220095308
+    second: wood-floor_250
+  - first:
+      213: -7473010014357068414
+    second: wood-floor_251
+  - first:
+      213: 3991119900669995346
+    second: wood-floor_252
+  - first:
+      213: 927682252687832475
+    second: wood-floor_253
+  - first:
+      213: -7537902335472319518
+    second: wood-floor_254
+  - first:
+      213: -2959477172231824532
+    second: wood-floor_255
+  - first:
+      213: 1087477210387554525
+    second: wood-floor_256
+  - first:
+      213: -3184081438773789857
+    second: wood-floor_257
+  - first:
+      213: -2225159161813170725
+    second: wood-floor_258
+  - first:
+      213: -1589577158428912565
+    second: wood-floor_259
+  - first:
+      213: 5248313822536805063
+    second: wood-floor_260
+  - first:
+      213: 5550654409637133791
+    second: wood-floor_261
+  - first:
+      213: -4976180091045239176
+    second: wood-floor_262
+  - first:
+      213: 4644857604619193246
+    second: wood-floor_263
+  - first:
+      213: 807401898181748611
+    second: wood-floor_264
+  - first:
+      213: -3345724952258626584
+    second: wood-floor_265
+  - first:
+      213: -8241269725266272461
+    second: wood-floor_266
+  - first:
+      213: -9016545780839163063
+    second: wood-floor_267
+  - first:
+      213: -6968006069386469714
+    second: wood-floor_268
+  - first:
+      213: 4324996004067797484
+    second: wood-floor_269
+  - first:
+      213: 7479403633873441380
+    second: wood-floor_270
+  - first:
+      213: -7154344398723955371
+    second: wood-floor_271
+  - first:
+      213: -17786206336178802
+    second: wood-floor_272
+  - first:
+      213: -9069512203564371989
+    second: wood-floor_273
+  - first:
+      213: -6921670775545348808
+    second: wood-floor_274
+  - first:
+      213: -6837321297085056688
+    second: wood-floor_275
+  - first:
+      213: 2854732348147222091
+    second: wood-floor_276
+  - first:
+      213: 3789300972666436701
+    second: wood-floor_277
+  - first:
+      213: -8176926113010650635
+    second: wood-floor_278
+  - first:
+      213: 2212097336944358173
+    second: wood-floor_279
+  - first:
+      213: -7412540927755313205
+    second: wood-floor_280
+  - first:
+      213: -6988198627814980258
+    second: wood-floor_281
+  - first:
+      213: 4994344334070635197
+    second: wood-floor_282
+  - first:
+      213: -2845293595619460957
+    second: wood-floor_283
+  - first:
+      213: 7271405754157190327
+    second: wood-floor_284
+  - first:
+      213: -1219030902113526083
+    second: wood-floor_285
+  - first:
+      213: 2412419065364682163
+    second: wood-floor_286
+  - first:
+      213: 4924862143685798673
+    second: wood-floor_287
+  - first:
+      213: -2684087822721239967
+    second: wood-floor_288
+  - first:
+      213: 6765405730880130291
+    second: wood-floor_289
+  - first:
+      213: -8342020070684743022
+    second: wood-floor_290
+  - first:
+      213: 7281244742514005340
+    second: wood-floor_291
+  - first:
+      213: 1321398178365588147
+    second: wood-floor_292
+  - first:
+      213: 7836776260910002233
+    second: wood-floor_293
+  - first:
+      213: -8274951753983117020
+    second: wood-floor_294
+  - first:
+      213: 6066838408823130204
+    second: wood-floor_295
+  - first:
+      213: 5719503862889212629
+    second: wood-floor_296
+  - first:
+      213: 7144638194053567057
+    second: wood-floor_297
+  - first:
+      213: -6157658323273160557
+    second: wood-floor_298
+  - first:
+      213: -4770906944004228037
+    second: wood-floor_299
+  - first:
+      213: 7300886327958636791
+    second: wood-floor_300
+  - first:
+      213: 3761071190015865253
+    second: wood-floor_301
+  - first:
+      213: 264818862817843422
+    second: wood-floor_302
+  - first:
+      213: -2693813186498234780
+    second: wood-floor_303
+  - first:
+      213: 7228635075209903514
+    second: wood-floor_304
+  - first:
+      213: 4321921654986208402
+    second: wood-floor_305
+  - first:
+      213: -8710791253226070619
+    second: wood-floor_306
+  - first:
+      213: 676081186211302218
+    second: wood-floor_307
+  - first:
+      213: -2232897544239301065
+    second: wood-floor_308
+  - first:
+      213: -811667719459088118
+    second: wood-floor_309
+  - first:
+      213: -6930598745993609770
+    second: wood-floor_310
+  - first:
+      213: -4390322520170600644
+    second: wood-floor_311
+  - first:
+      213: -8516626185440410245
+    second: wood-floor_312
+  - first:
+      213: 7096894373975993161
+    second: wood-floor_313
+  - first:
+      213: 4398118538002956792
+    second: wood-floor_314
+  - first:
+      213: 987960337590851184
+    second: wood-floor_315
+  - first:
+      213: -2102676200367183987
+    second: wood-floor_316
+  - first:
+      213: -1228223460255372218
+    second: wood-floor_317
+  - first:
+      213: -1827716907358934104
+    second: wood-floor_318
+  - first:
+      213: 58519197737843072
+    second: wood-floor_319
+  - first:
+      213: -697676492417024470
+    second: wood-floor_320
+  - first:
+      213: -6345359837555848638
+    second: wood-floor_321
+  - first:
+      213: 6175811366031789416
+    second: wood-floor_322
+  - first:
+      213: -5803513044357346375
+    second: wood-floor_323
+  - first:
+      213: -4088618220503161999
+    second: wood-floor_324
+  - first:
+      213: 4952527156776705944
+    second: wood-floor_325
+  - first:
+      213: -1651103080750003277
+    second: wood-floor_326
+  - first:
+      213: 8943681863652420796
+    second: wood-floor_327
+  - first:
+      213: 3822878089106691571
+    second: wood-floor_328
+  - first:
+      213: -8522703545188339271
+    second: wood-floor_329
+  - first:
+      213: -2118350436163519978
+    second: wood-floor_330
+  - first:
+      213: 1033394411445301464
+    second: wood-floor_331
+  - first:
+      213: -1029708537680617972
+    second: wood-floor_332
+  - first:
+      213: -2948461249164492379
+    second: wood-floor_333
+  - first:
+      213: 7282379041694253844
+    second: wood-floor_334
+  - first:
+      213: 823589733888814375
+    second: wood-floor_335
+  - first:
+      213: -6826845952104838005
+    second: wood-floor_336
+  - first:
+      213: -7808908339354394972
+    second: wood-floor_337
+  - first:
+      213: 6165568086151573840
+    second: wood-floor_338
+  - first:
+      213: 4082281126982636057
+    second: wood-floor_339
+  - first:
+      213: 4656593894244846753
+    second: wood-floor_340
+  - first:
+      213: -6333996924332837452
+    second: wood-floor_341
+  - first:
+      213: 6934753826467726116
+    second: wood-floor_342
+  - first:
+      213: -6334298814335054582
+    second: wood-floor_343
+  - first:
+      213: 1204321414162337357
+    second: wood-floor_344
+  - first:
+      213: 3106273776016429493
+    second: wood-floor_345
+  - first:
+      213: -1812591050384680883
+    second: wood-floor_346
+  - first:
+      213: 7508085298549329652
+    second: wood-floor_347
+  - first:
+      213: 8299715967212193170
+    second: wood-floor_348
+  - first:
+      213: -3161890032780189032
+    second: wood-floor_349
+  - first:
+      213: 779815665299587648
+    second: wood-floor_350
+  - first:
+      213: -523391100751289943
+    second: wood-floor_351
+  - first:
+      213: -6998670334116271274
+    second: wood-floor_352
+  - first:
+      213: 5651730230191149085
+    second: wood-floor_353
+  - first:
+      213: 1621548081520265378
+    second: wood-floor_354
+  - first:
+      213: 6528104561397432062
+    second: wood-floor_355
+  - first:
+      213: -4196482628845697652
+    second: wood-floor_356
+  - first:
+      213: 672346776596028033
+    second: wood-floor_357
+  - first:
+      213: 3580085498168289696
+    second: wood-floor_358
+  - first:
+      213: -5558559256191917947
+    second: wood-floor_359
+  - first:
+      213: 7092691394678557785
+    second: wood-floor_360
+  - first:
+      213: 4159436740327110244
+    second: wood-floor_361
+  - first:
+      213: 4102160118085894090
+    second: wood-floor_362
+  - first:
+      213: 4650229507234905115
+    second: wood-floor_363
+  - first:
+      213: -4189840802803610922
+    second: wood-floor_364
+  - first:
+      213: -575653335957685992
+    second: wood-floor_365
+  - first:
+      213: -719952688696293667
+    second: wood-floor_366
+  - first:
+      213: 2593476292776174226
+    second: wood-floor_367
+  - first:
+      213: 3484627999963556356
+    second: wood-floor_368
+  - first:
+      213: -8387941822350103618
+    second: wood-floor_369
+  - first:
+      213: -1088241861969203708
+    second: wood-floor_370
+  - first:
+      213: -5270507939744165937
+    second: wood-floor_371
+  - first:
+      213: 6120889955729646659
+    second: wood-floor_372
+  - first:
+      213: -5007377746754169297
+    second: wood-floor_373
+  - first:
+      213: -3079439807946815568
+    second: wood-floor_374
+  - first:
+      213: 8472665879316098874
+    second: wood-floor_375
+  - first:
+      213: 6291920368212952222
+    second: wood-floor_376
+  - first:
+      213: -5689471096914655025
+    second: wood-floor_377
+  - first:
+      213: 7590210214570953539
+    second: wood-floor_378
+  - first:
+      213: -8611284464471773248
+    second: wood-floor_379
+  - first:
+      213: 794144162781311180
+    second: wood-floor_380
+  - first:
+      213: 5406270194328662975
+    second: wood-floor_381
+  - first:
+      213: -8183792867118786578
+    second: wood-floor_382
+  - first:
+      213: -8338377945837265662
+    second: wood-floor_383
+  - first:
+      213: -7026473968845433088
+    second: wood-floor_384
+  - first:
+      213: 4109436720038181905
+    second: wood-floor_385
+  - first:
+      213: 1700637124501705019
+    second: wood-floor_386
+  - first:
+      213: -4086606338311791370
+    second: wood-floor_387
+  - first:
+      213: -8958784267584722004
+    second: wood-floor_388
+  - first:
+      213: 1983606148731218795
+    second: wood-floor_389
+  - first:
+      213: 7300199475470956070
+    second: wood-floor_390
+  - first:
+      213: -7779296248554726404
+    second: wood-floor_391
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wood-floor_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9abbb39fa9bb110800000000000000
+      internalID: 1277785314529356208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6e6ba39e1da1cf0800000000000000
+      internalID: -280681227114584356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925bb96dae321d900800000000000000
+      internalID: 707386108003726633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 208
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde9904b3e7a5b4b0800000000000000
+      internalID: -5425245579677950241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 208
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd97bb948c007320800000000000000
+      internalID: 2553554752406789623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 208
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7435414613808e940800000000000000
+      internalID: 5325515567591084871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 208
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3776de3714719e0800000000000000
+      internalID: -1650778772247972944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 208
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c2b5cf8e972b430800000000000000
+      internalID: 3797231477399956570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 208
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f09e95c766149d30800000000000000
+      internalID: 4437196167819727094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 208
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c90abb9758769e0800000000000000
+      internalID: -1628185982385742726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 208
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9b4e2e5acd3d230800000000000000
+      internalID: 3662513527016700360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 208
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e99ba34e4b234490800000000000000
+      internalID: -7763313717513840153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 208
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47bbe4e3a1376a0b0800000000000000
+      internalID: -5717756120348574860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 208
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5620ede5a26d2f0800000000000000
+      internalID: -948524084574919237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04011b7baa6469fb0800000000000000
+      internalID: -4641444666918498240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde78d5f240b63600800000000000000
+      internalID: 447739014608879323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc388ed75ab31b750800000000000000
+      internalID: 6318897334145549259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c60980a6a5528a0800000000000000
+      internalID: -6330554289742648257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bea62fb4eb9e0080800000000000000
+      internalID: -9219259980418994507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b60e29a17f4e3290800000000000000
+      internalID: -7908796546027747660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe6ab63ab003bd10800000000000000
+      internalID: 2140055047713222384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_21
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ede6f238e7875af0800000000000000
+      internalID: -407707809896534558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d9fd1bba756f880800000000000000
+      internalID: -8577572045345284767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_23
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e247c8ea715bd9060800000000000000
+      internalID: 6961919712301970478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee982d2e82e6c0b40800000000000000
+      internalID: 5407818374448318958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_25
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e68acf06848b150800000000000000
+      internalID: 5888536094179880473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbd855c4c1d5dd50800000000000000
+      internalID: 6761541058621397982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_27
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c498adbecf823a20800000000000000
+      internalID: 3040650816536483015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cc3511c64ffcc90800000000000000
+      internalID: -7147225338629338107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15689fad7547a0ad0800000000000000
+      internalID: -2735245902989392303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09327b49c36c7c180800000000000000
+      internalID: -9095082958956059760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7918f8c894545d030800000000000000
+      internalID: 3518794866053054871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdabe9f84f65b3e30800000000000000
+      internalID: 4484273462359014111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f556829ebb593f780800000000000000
+      internalID: -8650405824945429153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2011b6861ac4cf7f0800000000000000
+      internalID: -577502396084973310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_35
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 176
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407958ea835d15970800000000000000
+      internalID: 8742002791125718788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 176
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc50b392bb68d5170800000000000000
+      internalID: 8168833437528688077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_37
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 176
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48a917cdd2b55c40800000000000000
+      internalID: 5500499185500792909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 176
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5506919a0be1a72d0800000000000000
+      internalID: -3280275634485895083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_39
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 176
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8005a4c2c89a53c0800000000000000
+      internalID: -4370012526119419764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_40
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 176
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd7e893e8df290b0800000000000000
+      internalID: -5723233389141656113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_41
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 176
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75983a8b7d9f9720800000000000000
+      internalID: 2855173842701686142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6c21a2877393160800000000000000
+      internalID: 7005691684592993996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8c7ffe848cbf920800000000000000
+      internalID: 3025231790298613963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d64e0f12cfb8450800000000000000
+      internalID: 6092240143654350217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442d9ddda9c72f000800000000000000
+      internalID: 68253948952826436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77081464074e31090800000000000000
+      internalID: -8064851336824258441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a957a7083fb73990800000000000000
+      internalID: -7406240814820009564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0514e5e11756d860800000000000000
+      internalID: 7554321159343576333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda5f98a21b975960800000000000000
+      internalID: 7590706201396992732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3917e4eea3f2e58c0800000000000000
+      internalID: -4008714688160435821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_51
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e41c9c4f793c3af0800000000000000
+      internalID: -415393846716001051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_52
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f35f8849977ce2b0800000000000000
+      internalID: -5553932740223609863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_53
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9460058525ab100800000000000000
+      internalID: 124502478959299065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b477e1b92d9575f70800000000000000
+      internalID: 9175901526871144267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_55
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4d74eb8aff737c0800000000000000
+      internalID: -4091520636230839045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1c9017f92012970800000000000000
+      internalID: 8728260436640252322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06ce46d9ca833030800000000000000
+      internalID: 3473272337121330698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be50ab121db1f650800000000000000
+      internalID: 6264996442119626422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5551ed3234e350250800000000000000
+      internalID: 5910198544079131989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd4ecce9681e9980800000000000000
+      internalID: -8530353800969564740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bacbf5d15b188ed0800000000000000
+      internalID: -2411647562160551244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af270a0742b19950800000000000000
+      internalID: 6454135759179296681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_63
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703e9898b69fec360800000000000000
+      internalID: 7191959895221592839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cadf30c40a64ab0800000000000000
+      internalID: -5024152085940294635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_65
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf37c87dddf9e0ba0800000000000000
+      internalID: -6120779068397030405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_66
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 144
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598c38fc0811450d0800000000000000
+      internalID: -3435101370841839467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_67
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 144
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de23667bac6e9e5d0800000000000000
+      internalID: -3032639115722607891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_68
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cf6604fbde4ee90800000000000000
+      internalID: -6997206515351880651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_69
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 144
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee98ff65ac4c6220800000000000000
+      internalID: 2480441768206180075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c091937d829742480800000000000000
+      internalID: -8924875345224984308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_71
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b3da49e123ad7b0800000000000000
+      internalID: -5198787712921027758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_72
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e20301cf9b614380800000000000000
+      internalID: -8988785047372627230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_73
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f01ef5d688a2da0800000000000000
+      internalID: -5968808352784773329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08739a394b55bd350800000000000000
+      internalID: 6042517559107467136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_75
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eadb4cec9e6a1460800000000000000
+      internalID: 7213199373445618402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b224ee82cc513d50800000000000000
+      internalID: 6715250510076846776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_77
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86df0b423b55b850800000000000000
+      internalID: 6392115517688108686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_78
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522add17bde6747e0800000000000000
+      internalID: -1781333238814498267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_79
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a90d64da2d9e240800000000000000
+      internalID: 4821616517736077864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_80
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7abdcdffbe1c0340800000000000000
+      internalID: 4831270310207404671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_81
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886729731f59350f0800000000000000
+      internalID: -1129394218287860088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_82
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0faffaedaa310ce0800000000000000
+      internalID: -1440805887135469812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_83
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360f1073a629f3b20800000000000000
+      internalID: 3116370452050735203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fac8b55395740b20800000000000000
+      internalID: 3099731719196560114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72387395dbf9b9300800000000000000
+      internalID: 259977039098381095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a48b7bbff4138d0800000000000000
+      internalID: -2868423545120601494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a14237531aad17d0800000000000000
+      internalID: -2946011581186424410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0412f5d1b78d0ea0800000000000000
+      internalID: -5904914338544479219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af50a48827556b20800000000000000
+      internalID: 3127001347814088613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527cfcbe797018a90800000000000000
+      internalID: -7313555970795256027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae948c813ec84bc0800000000000000
+      internalID: -3798559573480792409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 112
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f1dadbb8c5a3290800000000000000
+      internalID: -7909908040270405770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 112
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1052db18c341ae80800000000000000
+      internalID: -8169173722334080994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 112
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d794d7d3863b0ce30800000000000000
+      internalID: 4521811286169569661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_95
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 112
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ce6d25e82f2ddd0800000000000000
+      internalID: -2462639353129145278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_96
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 112
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a82565447c8420f0800000000000000
+      internalID: -1142633974436910942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_97
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 112
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdda760ca835b020800000000000000
+      internalID: 2356852291492568496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920e171a878f7b230800000000000000
+      internalID: 3654662819622805545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_99
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f787b6294e34cf40800000000000000
+      internalID: 5747787508334692344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_100
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e62dc5343cb0050800000000000000
+      internalID: 5767918441865571860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_101
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea07224cadd1f9e60800000000000000
+      internalID: 7971122690899734702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_102
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0a2c6b75bb6a1f0800000000000000
+      internalID: -1033933079032192853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_103
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ab30e3805514dc0800000000000000
+      internalID: -3656547928559601011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_104
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14403aa830845d6a0800000000000000
+      internalID: -6425150113326103487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_105
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbf1958616443d20800000000000000
+      internalID: 3257305493039872974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6e43108d71fd910800000000000000
+      internalID: 1864234987255293604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_107
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f69bd7dfee1871f0800000000000000
+      internalID: -1047052897896130824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_108
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283a715a48045d440800000000000000
+      internalID: 4959941503068119938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_109
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44eb076da23ff2ab0800000000000000
+      internalID: -5030534893437665724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_110
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6294e986d39494480800000000000000
+      internalID: -8914513459306149594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_111
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18b6d455a1dee560800000000000000
+      internalID: 7345038550311024670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f8275a747d4f750800000000000000
+      internalID: 6337927278335528791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a8a5016580748e0800000000000000
+      internalID: -1709388367829235139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2173b7df5e3f75db0800000000000000
+      internalID: -4803102308441573614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c216b0366103da40800000000000000
+      internalID: 5391654717308146373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d5bc82213094af0800000000000000
+      internalID: -411794514398978737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1928d1044f2fcf550800000000000000
+      internalID: 6196094318216577681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee959a1299973760800000000000000
+      internalID: 7437582162415951593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eda5eadc85068510800000000000000
+      internalID: 1550933224201760227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 80
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc6b59764fef1260800000000000000
+      internalID: 7070633025957752053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 80
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873311db9f2373b40800000000000000
+      internalID: 5419856724763947896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_122
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 80
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c743b716934eca0800000000000000
+      internalID: -5988598513654268835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_123
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 80
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5980d28a2bfd6660800000000000000
+      internalID: 7380831524332013919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_124
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 80
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62569f88d37235d50800000000000000
+      internalID: 6724761813838816550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_125
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 80
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c78ab06e8509a90800000000000000
+      internalID: -7309244450161001368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2a1215c47776060800000000000000
+      internalID: 6946652119904658135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_127
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b03913f9a02f1df0800000000000000
+      internalID: -207411143535677255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_128
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef557b673d2cf87b0800000000000000
+      internalID: -5219739229613500930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_129
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7a86eecdcef3850800000000000000
+      internalID: 6359061632507226101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_130
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b0499874cf91b00800000000000000
+      internalID: 799947793016032067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_131
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43aaa58c363d78b0800000000000000
+      internalID: -5152902765073489076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_132
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec927bad5dd3c710800000000000000
+      internalID: 1712455677709032675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_133
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d469a9f0801ca3470800000000000000
+      internalID: 8375218697414547021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_134
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d4b682e7b06a360800000000000000
+      internalID: 7180439292360740139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_135
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4257d0e7092a760800000000000000
+      internalID: 7467690003199763665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_136
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6677170445bb2f0800000000000000
+      internalID: -956077860127807787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_137
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d1ba1ca26523ff0800000000000000
+      internalID: -57889103564563085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_138
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d7ffc33602d0cb0800000000000000
+      internalID: -4896221609284633238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_139
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c0c6ba1f2f83cd0800000000000000
+      internalID: -2578043666892583834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46f6576e2cc8b910800000000000000
+      internalID: 1853455746337273423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_141
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf55225ca1d93990800000000000000
+      internalID: -7405657574191308876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_142
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee52d1bcb66ce8d00800000000000000
+      internalID: 976936335457461742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_143
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02abc3aaec38d6720800000000000000
+      internalID: 2841071863583259168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_144
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d07c15c1868cc1a0800000000000000
+      internalID: -6787902646438301483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_145
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b736e99fb6028b0800000000000000
+      internalID: -5179020851627721892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_146
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f41cd4832cb938a0800000000000000
+      internalID: -6324817340926257930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_147
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54aa9921cfc10b530800000000000000
+      internalID: 3868623948880652869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_148
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 48
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc881ed9008b9c70800000000000000
+      internalID: 8978911061962427600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_149
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e9313e608caa0f0800000000000000
+      internalID: -1104850826660962784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_150
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 48
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09fff7208cbbd910800000000000000
+      internalID: 1863290129460754698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_151
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 48
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0eaeb48ab025d90800000000000000
+      internalID: -7110608044208496402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bc0ab5c11da6f50800000000000000
+      internalID: 6875537700861037367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_153
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 48
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406a33d1ad692e950800000000000000
+      internalID: 6476905077649155588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ce78f0849ef06a0800000000000000
+      internalID: -6480704843055371125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_155
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fde7196e26052560800000000000000
+      internalID: 7288238368370454000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_156
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3cde0a451bf16d0800000000000000
+      internalID: -3017498248279636998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_157
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6deeae8e9485e2520800000000000000
+      internalID: 2679175902795591382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_158
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef78f829e23d1fa0800000000000000
+      internalID: -5828446365751410709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_159
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7d4bf613f9bf2d0800000000000000
+      internalID: -3243824071913973853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_160
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d53b2cd2aae68f30800000000000000
+      internalID: 4577604056468108756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_161
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7f37edcaf059080800000000000000
+      internalID: -9181415030183954487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_162
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c4786fa6beeee90800000000000000
+      internalID: -6994394326624678795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_163
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d6a1f2346404720800000000000000
+      internalID: 2828337820355685730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_164
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2576203aef07c20800000000000000
+      internalID: 3202339311133872882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_165
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a5051405874f2a0800000000000000
+      internalID: -6704601659159324127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_166
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f976a45b9bccbf0e0800000000000000
+      internalID: -2234967692076750945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_167
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11bd45de8e5ffdd0800000000000000
+      internalID: -2450135704709254883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e0f591d1b27b620800000000000000
+      internalID: 2789745898159017578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_169
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8641f27730e2de130800000000000000
+      internalID: 3597582269758248040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_170
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96254e5227d02eb70800000000000000
+      internalID: 8926712195314897513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_171
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0cd520d9724f490800000000000000
+      internalID: -7713496706475769673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_172
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1fdb4060b979d40800000000000000
+      internalID: 5591107912555426228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_173
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb817bd24f459c980800000000000000
+      internalID: -8518183812478854977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_174
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10de1faf47ce97720800000000000000
+      internalID: 2844564626831699201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_175
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa75177e7d8dcc80800000000000000
+      internalID: -8300822963870664027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_176
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 16
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f81b14041d61a20800000000000000
+      internalID: 3032841472990875397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_177
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 16
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e7cb9c832f37af0800000000000000
+      internalID: -399709616189178213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_178
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 16
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba845fc99e13bad0800000000000000
+      internalID: -2687770906652800323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_179
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 16
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c9ded48fd4205b0800000000000000
+      internalID: -5403670874036528016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_180
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 16
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bc37f8087fad800800000000000000
+      internalID: 638094428760951642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_181
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 16
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c3141cc3fec0230800000000000000
+      internalID: 3606520445836278921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a74659fc82eb840800000000000000
+      internalID: 5241671888335567517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_183
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bafa2ca012e2ba0800000000000000
+      internalID: -6111911314195502219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_184
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104ad52c89f4049a0800000000000000
+      internalID: -6250908765275708415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_185
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff312f7e3e7e6740800000000000000
+      internalID: 5147190231017013236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_186
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7b1e32104475110800000000000000
+      internalID: 1249542193306253282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_187
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c68e667ba84aa70800000000000000
+      internalID: 8837340889117912108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_188
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6e873b6e320d2d0800000000000000
+      internalID: -3256063056828373340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_189
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6780d2d35a5e01240800000000000000
+      internalID: 4760557303989340278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_190
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb35c7b4a9319a440800000000000000
+      internalID: 4947507219055530939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_191
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11e404d2c3dcca60800000000000000
+      internalID: 7695758697003540766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_192
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a825f701e5ef6b2c0800000000000000
+      internalID: -4416062704633032054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_193
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d89e179ca1cc950800000000000000
+      internalID: 6470576217126440296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_194
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f16665e87f27fdb0800000000000000
+      internalID: -4758282285002366476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-floor_195
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288258f5cf51d3f10800000000000000
+      internalID: 2250979562433620098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
