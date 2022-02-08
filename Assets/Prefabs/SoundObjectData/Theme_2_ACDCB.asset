@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: ACDCB
   sound: {fileID: 8300000, guid: eec7db7105f6e46488dd22e09f8c825c, type: 3}
-  sprite: {fileID: 21300000, guid: a1e6ae6b3f27f684c9d7afdcc22e5acd, type: 3}
+  sprite: {fileID: 21300000, guid: 5ce9ab02c0ecb954ca78428625ac2003, type: 3}
   type: 1
   elements:
   - {fileID: 11400000, guid: 3b7da7c3c22093c4385287264d90fa2f, type: 2}
