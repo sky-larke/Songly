@@ -11,7 +11,7 @@ public class SpawnArea : MonoBehaviour
         Vector3 origin = transform.position;
         Vector3 range = transform.localScale / 2.0f;        //we defined the middle of the box to be the origin, so half the width is the range.
         Vector3 randomRange = new Vector3(Random.Range(-range.x, range.x),
-                                          Random.Range(-range.y, range.y),
+                                          Random.Range(-range.y, range.y-1),
                                           Random.Range(-range.z, range.z));
         Vector3 randomCoordinate = origin + randomRange;
         return randomCoordinate;
